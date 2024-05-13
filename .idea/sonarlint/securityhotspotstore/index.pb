@@ -1,0 +1,27 @@
+
+A
+bookstall/urls.py,0/1/0151c15437786cf91dcbf90c984d6591d67f6501
+E
+bookstall/settings.py,0/c/0c56c2f4b4d2049214bd54e9a71892a08c90d8cf
+F
+app_bookstall/admin.py,f/e/feb51f64c95e65e71747529b44ad00134a067409
+H
+templates/book_list.html,0/1/01d9e644df6e53ec049b13d639f1e819d26856b2
+G
+app_bookstall/models.py,f/8/f8641672483db2e0f6da457362b226f2daf08e1d
+G
+templates/add_book.html,7/b/7b07c76fea2befee12fd4cc2f7768812b6ac2358
+E
+app_bookstall/urls.py,b/4/b433838b65f7643382d6633e52b3345135f225d1
+F
+app_bookstall/views.py,d/6/d6098126a47c5acf1a798151bbe1d95a1f29f3ac
+A
+bookstall/wsgi.py,0/0/0058cddc2a90e73417b749c9b1e1935de57236e5
+1
+s,a/0/a0f1490a20d0211c997b44bc357e1972deab8ae3
+@
+requirements.txt,1/9/19359a61ae2446b51b549167b014da2fcf265768
+C
+static/css/main.css,1/d/1d911fa3e8e9e880e642b3cfb08a49276784f29a
+9
+	manage.py,3/1/3156ad13e4d695cd526bbb7b031016ecba842270
